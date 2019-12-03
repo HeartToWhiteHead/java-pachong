@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+  #    uri: mongodb://admin:admin@49.232.162.73:27017/admin
+      database: admin
+      host: 192.168.244.66
+      port: 27017
+      password: admin
+      username: admin
